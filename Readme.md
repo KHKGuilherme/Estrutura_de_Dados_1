@@ -1,6 +1,6 @@
 # Estrutura_de_Dados(PT-BR)
 
-##Linguagens:
+## Linguagens:
 * C 
 * Python 
 
