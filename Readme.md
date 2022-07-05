@@ -21,9 +21,10 @@
 * Merge Sort❌
 * Heap Sort❌
 
-## Status
-🛠 Construção em Andamento 🛠
-
 ## Colaboradores
 * Guilherme Henrique S. Fontes (KHKGuilherme)
 * Rafael G. Mantovani (rgmantovani)
+
+
+## Status
+🛠 Construção em Andamento 🛠
