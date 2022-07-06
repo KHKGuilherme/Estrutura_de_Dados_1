@@ -5,7 +5,17 @@
 * Python 
 
 ## Estruturas:
-* Listas❌
+* Listas ⚠
+  * Lista não ordenadas ⚠
+    * Encadeada (Simples)  ⚠
+      * Estrutura Base ✔
+      * Sentinela Simples ❌
+      * Lista Circular Simples ❌
+    * Duplamente Encadeada ❌
+      * Estrutura Base ❌
+      * Lista Circular Duplamente Encadeada ❌
+      * Sentinela Duplamente Encadeado ❌
+      
 * Pilhas❌
 * Fila❌
 * Árvores❌
