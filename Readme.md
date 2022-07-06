@@ -1,4 +1,4 @@
-# Estrutura de Dados 1(PT-BR)
+# Estrutura de Dados 1 (PT-BR)
 
 ## Linguagens:
 * C 
