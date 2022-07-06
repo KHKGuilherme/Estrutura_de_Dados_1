@@ -11,7 +11,7 @@ lista.inserirLista(3)
 lista.inserirLista(4)
 
 print('Demonstrando Exibir:')
-print('Lista Completa: ',lista)
+print('Lista: ',lista)
 if lista.verificaVazia():
     print('Está Vazia')
 print('Inicio: ',lista.inicioLista())
@@ -21,13 +21,13 @@ print('Tamanho: ',lista.tamanhoLista())
 print('\nDemonstrando Remoção:')
 print('Remove o inicio...')
 lista.removeListaPrimeiro()
-print('Lista Completa: ',lista)
+print('Lista: ',lista)
 print('Remove o final...')
 lista.removeListaUltimo()
-print('Lista Completa: ',lista)
+print('Lista: ',lista)
 print('Remove o 15...')
 lista.removeListaEspecifico(15)
-print('Lista Completa: ',lista)
+print('Lista: ',lista)
 print('Tamanho: ',lista.tamanhoLista())
 
 print('\nDemonstração Zerar Lista:')
@@ -36,6 +36,6 @@ lista.zerarLista()
 if lista.verificaVazia():
     print('A lista está Vazia')
 
-print('Lista Completa: ',lista)
+print('Lista: ',lista)
 
 print('\nFinalizando...')
