@@ -1,9 +1,5 @@
 #include "Lista_N_Ordenada_Base.h"
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdbool.h>
-
 // Inicialização da lista
 bool iniciaLista(Lista* lista){
     lista->inicio = NULL;
