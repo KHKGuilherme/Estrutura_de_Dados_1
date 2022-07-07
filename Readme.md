@@ -9,12 +9,13 @@
   * Lista não ordenadas ⚠
     * Encadeada (Simples)  ⚠
       * Estrutura Base ✔
-      * Sentinela Simples ❌
       * Lista Circular Simples ❌
+      * Sentinela Simples ❌
+     
     * Duplamente Encadeada ❌
       * Estrutura Base ❌
-      * Lista Circular Duplamente Encadeada ❌
       * Sentinela Duplamente Encadeado ❌
+      * Lista Circular Duplamente Encadeada ❌
       
 * Pilhas❌
 * Fila❌
