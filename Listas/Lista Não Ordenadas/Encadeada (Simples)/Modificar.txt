@@ -1,0 +1,4 @@
+Prioridade:
+
+1 - Concertar as biblioteca.h           |   C  |
+2 - Formartar de acordo com Doxygen     |   C  |    Python  |
